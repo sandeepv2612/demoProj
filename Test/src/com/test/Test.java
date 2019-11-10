@@ -5,6 +5,8 @@ public class Test {
 	public Test() {
 		// TODO Auto-generated constructor stub
 		System.out.println("Testing 123..");
+		
+		System.out.print("my comment");
 	}
 
 	public static void main(String[] args) {
